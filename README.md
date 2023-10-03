@@ -68,7 +68,7 @@ The connection to Topcon's TopNET live can be done via **NTRIP protocol**.
 
 <div align="center">
 
-| <a href="https://pointonenav.com/docs/">Click here to the navigate to Polaris Examples, tutorials, datasheets and API references.</a> |
+| <a href="https://www.topconpositioning.com/support/products/topnetlive">Click here to the navigate to find Topnet tutorials and other documentation references.</a> |
 |---|
    
 </div>
@@ -78,7 +78,7 @@ If you have any questions or feedback, please don't hesitate to reach out to <a 
 ## WHO IS TOPCON?
 
 <p align="center">
-    <img src="doc_resources/topcon_logo.png" width="50%">
+    <img src="doc_resources/Topcon_Topnet.png" width="50%">
 
 Topcon Corporation is a Japanese multinational company that specializes in the design and manufacture of optical, surveying, and geolocation equipment. The company was founded in 1932 and is headquartered in Tokyo, Japan. Topcon's products and services are used in various industries, including construction, agriculture, healthcare, and geospatial applications. 
 
