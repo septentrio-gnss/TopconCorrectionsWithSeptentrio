@@ -80,7 +80,9 @@ If you have any questions or feedback, please don't hesitate to reach out to <a 
 <p align="center">
     <img src="doc_resources/topcon_logo.png" width="50%">
 
-Point One Navigation is a startup excited about the future of cars and robotics, solving one of the key unsolved problems for intelligent machines: determining position with a high degree of precision and confidence in all situations. They do this with a unique combination of computer vision, satellite navigation and sensor fusion. Their technology is produced by a team of passionate engineers, scientists and designers who care about solving hard technical problems using smart algorithms, making innovations and delivering a product that feels like magic.
+Topcon Corporation is a Japanese multinational company that specializes in the design and manufacture of optical, surveying, and geolocation equipment. The company was founded in 1932 and is headquartered in Tokyo, Japan. Topcon's products and services are used in various industries, including construction, agriculture, healthcare, and geospatial applications. 
+
+TopNET Live is a real-time GNSS (Global Navigation Satellite System) correction service offered by Topcon Positioning Systems, a division of Topcon Corporation. TopNET Live is designed to provide high-precision positioning data to GNSS users in various industries, including surveying, construction, agriculture, and more.
 
 <div align="center">
    
