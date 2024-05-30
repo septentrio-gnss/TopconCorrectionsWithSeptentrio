@@ -52,7 +52,7 @@ It is desirable to mention the disclaimer about that setup and the guides in gen
 <!--ts-->
 
 * [Introduction](#introduction)
-* [Who is Topcon Navigation?](#who-is-topcon-navigation)
+* [Who is Topcon Positioning?](#who-is-topcon-navigation)
 * [What is Topnet Live?](#what-is-topnet-live)
 * [Is the project Open Source?](#is-the-project-open-source)
 * [Option 1: Using Topnet Live with NTRIP on board the receiver](#option-1-using-topnet-live-with-ntrip-on-board-the-receiver)
@@ -89,12 +89,12 @@ Topcon's TopNET Live is a **NTRIP protocol** based service.
 
 If you have any questions or feedback, please don't hesitate to reach out to us at <a href="https://web.septentrio.com/GH-SSN-support">Septentrio support page.</a>
 
-## WHO IS Topcon ?
+## WHO IS Topcon Positioning?
 
 <p align="center">
     <img src="doc_sources/topcon_logo.png" >
 
-Topcon Corporation is a Japanese multinational company that specializes in the design and manufacture of optical, surveying, and geolocation equipment. The company was founded in 1932 and is headquartered in Tokyo, Japan. Topcon's products and services are used in various industries, including construction, agriculture, healthcare, and geospatial applications.
+Topcon Corporation is a Japanese multinational company that specializes in the design and manufacture of optical, surveying, and geolocation end user equipment. The company was founded in 1932 and is headquartered in Tokyo, Japan. Topcon's products and services are used in various industries, including construction, agriculture, healthcare, and geospatial applications.
 
 ## What is TOPNET Live?
 
