@@ -67,7 +67,7 @@ It is desirable to mention the disclaimer about that setup and the guides in gen
 
 ## INTRODUCTION
 
-This repository consists in a how-to guide for the implementation of a system that uses a Raspberry Pi 4 Model B in combination with a Septentrio Module to obtain Topcon corrections for precise positioning. In this practical example case, mosaic-X5's Mosaic-Go Evaluation Kit is used, but any other Septentrio works in the same way if its connected with a USB cable. If you want to know more about or different modules and products you can visit us in: 
+This repository consists in a how-to guide for the implementation of a system that uses a Raspberry Pi 4 Model B in combination with a Septentrio Module to obtain Topcon corrections (TopNet services) for precise positioning. In this practical example case, mosaic-X5's Mosaic-Go Evaluation Kit is used, but any other Septentrio works in the same way if its connected with a USB cable. If you want to know more about or different modules and products you can visit us in: 
 
 <div align="center">
 
@@ -102,6 +102,8 @@ Topcon Corporation is a Japanese multinational company that specializes in the d
     <img src="doc_sources/Topcon_Topnet.png" width="75%">
 
 TopNET Live is a real-time GNSS (Global Navigation Satellite System) correction service offered by Topcon Positioning Systems, a division of Topcon Corporation. TopNET Live is designed to provide high-precision positioning data to GNSS users in various industries, including surveying, construction, agriculture, and more.
+
+Today only the RealPointservice (OSR services - RTK over NTRIP) from TopnetLive are supported with Septentrio receivers.
 
 To know more about the service you can visit the following official web pages:
 <div align="center">  
